@@ -39,7 +39,7 @@ Para realizar a cabo este proyecto he decidido instalarme los siguientes IDEs:
 
   Se puede descargar a través del siguiente enlace: 
 
-[Enlace Descarga IntelliJ IDEA](https://www.jetbrains.com/idea/)
+  [Enlace Descarga IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 - **Libre**: Visual Studio Code (Microsoft)
 
@@ -47,7 +47,7 @@ Para realizar a cabo este proyecto he decidido instalarme los siguientes IDEs:
 
   Se puede descargar a través del siguiente enlace:
 
-[Enlace Descarga VSC](https://code.visualstudio.com/)
+  [Enlace Descarga VSC](https://code.visualstudio.com/)
 
 Para evidenciar las diferencias, he documentado los pasos principales con capturas de pantalla para ambos entornos:
 
@@ -99,7 +99,7 @@ Una vez iniciado, la pantalla inicial se ve aún más profesional que la de Visu
 
 ### **Visual Studio Code**
 
-1. **Agilidad del proceso**: Sin duda alguna destaca la rápidez y la ligereza en su instalacióna, que requiere pocos recursos y espacio en disco ya que en menos de un minuto está listo para usar, lo que facilita el acceso incluso en equipos con hardware limitado.
+1. **Agilidad del proceso**: Sin duda alguna destaca la rápidez y la ligereza en su instalación ya que requiere pocos recursos y espacio en disco ya que en menos de un minuto está listo para usar, lo que facilita el acceso incluso en equipos con hardware limitado.
 2. **Simplicidad y claridad**: Todo el proceso me ha parecido intuitivo y directo, sin pasos innecesarios ni requisitos de registro, pago o verificación por licencia.
 3. **Personalización inicial**: Me ha permitido desde el primer momento elegir opciones como la creación de accesos directos, asociación de archivos y registro en el PATH, lo que resulta muy útil para desarrolladores que buscan comodidad y versatilidad en el uso diario.
 4. **Accesibilidad**: No me ha pedido datos personales ni información privada para poder instalarlo puesto que el usuario es totalmente independiente, lo que lo convierte en una solución flexible y segura.
