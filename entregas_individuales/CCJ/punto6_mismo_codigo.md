@@ -1,30 +1,25 @@
-# Punto 6: Generación de ejecutables con diferentes IDEs a partir del mismo código fuente
+# Punto 2.6: Generación de ejecutables con diferentes IDEs a partir del mismo código fuente
 
 ## IDEs utilizados
-- **IDE 1:** [Nombre y versión]
-- **IDE 2:** [Nombre y versión]
+- *IDE 1:* PyCharm Professional
+- *IDE 2:* Thonny
 
 ## Descripción de la tarea
-Programa "cuenta atrás" en Python que cuenta de 10 a 0 y luego imprime "¡Despegue!"
-
-## Código implementado
-
-```python
-# Código Python del programa cuenta atrás
-[Tu código aquí]
-```
+Escribir un programa en Python que cuente de 10 a 0 y luego imprima "¡Despegue!" y ejecutarlo en los IDEs seleccionados.
 
 ## Respuestas a preguntas evaluativas
-
 ### Pregunta 1: ¿Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?
-[Tu respuesta aquí]
+- **PyCharm:** gestión avanzada de carpetas, consola profesional, mensajes de error detallados.  
+- **Thonny:** interfaz limpia, intuitiva y excelente para principiantes.
 
 ### Pregunta 2: ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguaje que hayas elegido? ¿Por qué?
-[Tu respuesta aquí]
+- **PyCharm:** más cómodo por su accesibilidad y herramientas integradas.  
+- **Thonny:** excelente para aprender y crear scripts simples.
 
 ## Evidencias
-![Ejecución en IDE 1](capturas/punto6_ide1_ejecucion.png)
-![Ejecución en IDE 2](capturas/punto6_ide2_ejecucion.png)
+![Captura 1](../capturas/12.png)  
+
+![Captura 2](../capturas/13.png)
 
 ## Observaciones
-[Comentarios adicionales]
+PyCharm es ideal para proyectos complejos y profesionales, mientras que Thonny es excelente para aprendizaje y tareas sencillas.
