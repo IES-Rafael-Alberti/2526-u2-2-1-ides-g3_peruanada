@@ -11,7 +11,7 @@
 | Nombre y Apellidos | Correo Electrónico | Iniciales |
 |-------------------|-------------------|-----------|
 <<<<<<< HEAD
-| Antonio L G | @g.educaand.es | ALG |
+| Antonio L G | alopgau418@g.educaand.es | ALG |
 | Cristian Carrasco Jimenez | ccarjim2909@g.educaand.es | CCJ |
 | Fabio M Tello L | ftellop678@g.educaand.es | FMTL |
 | Irene F L | ifonlob1108@g.educaand.es | IFL |
