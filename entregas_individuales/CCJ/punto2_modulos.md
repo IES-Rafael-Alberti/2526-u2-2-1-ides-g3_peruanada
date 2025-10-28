@@ -1,27 +1,25 @@
-# Punto 2: Gestión de módulos y extensiones en el entorno de desarrollo
+# Punto 2.2: Gestión de módulos y extensiones
 
 ## IDEs utilizados
-- **IDE 1:** [Nombre y versión]
-- **IDE 2:** [Nombre y versión]
+- *IDE 1:* PyCharm Professional
+- *IDE 2:* Thonny
 
 ## Descripción de la tarea
-[Explica qué extensiones/plugins instalaste en cada IDE]
-
-Ejemplos:
-- En VSCode: Extensión de Python, Pylint, etc.
-- En IntelliJ: Plugin de Kotlin, Spring Assistant, etc.
+Agregar extensiones o módulos que amplíen la funcionalidad de cada IDE, por ejemplo, un plugin para Python en PyCharm o un paquete como `pygame` en Thonny.
 
 ## Respuestas a preguntas evaluativas
-
 ### Pregunta 1: ¿Cómo fue el proceso de instalación de extensiones o módulos en cada IDE?
-[Tu respuesta aquí]
+- **PyCharm:** `File → Settings → Plugins → Marketplace → Instalar`.  
+- **Thonny:** `Herramientas → Gestionar paquetes → Escribir módulo → Instalar`.
 
 ### Pregunta 2: ¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?
-[Tu respuesta aquí]
+- **PyCharm:** mejoran la productividad y la visualización del código.  
+- **Thonny:** permite ampliar las capacidades del IDE, por ejemplo, para crear juegos con `pygame`.
 
 ## Evidencias
-![Panel de extensiones IDE 1](capturas/punto2_ide1_extensiones.png)
-![Panel de extensiones IDE 2](capturas/punto2_ide2_extensiones.png)
+![Captura 1](../capturas/3.png)  
+
+![Captura 2](../capturas/4.png)
 
 ## Observaciones
-[Comentarios adicionales]
+Los plugins/extensiones son esenciales para personalizar y optimizar el entorno de desarrollo según el proyecto.
