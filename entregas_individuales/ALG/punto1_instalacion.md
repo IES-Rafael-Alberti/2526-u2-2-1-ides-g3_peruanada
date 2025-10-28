@@ -28,11 +28,11 @@ Instalación de dos entornos de desarrollo (VSCode y Fleet) en Linux Debian, cap
 
 ## Evidencias
 
-![Instalación](capturas/Pasted%20image%2020251024203955.png)
-![Instalación](capturas/Pasted%20image%2020251024204430.png)
-![Instalación](capturas/Pasted%20image%2020251024204632.png)
-![Instalación](capturas/Pasted%20image%2020251024210141.png)
-![Instalación](capturas/Pasted%20image%2020251024210259.png)
+![Instalación](capturas/punto1_vscode_instalacionpantalla2.png.png)
+![Instalación](capturas/punto1_vscode_instalacion_paquete.png.png)
+![Instalación](capturas/punto1_vscode_instalacionfinal.png.png)
+![Instalación](capturas/punto1_fleet_instalaciontoolbox.png.png)
+![Instalación][capturas/punto1_fleet_instalacion_final.png.png]]
 
 ## Observaciones
 

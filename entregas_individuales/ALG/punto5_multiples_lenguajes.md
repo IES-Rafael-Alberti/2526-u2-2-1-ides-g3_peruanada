@@ -32,10 +32,10 @@ Creación y ejecución de un programa que cuenta de 10 a 0 y muestra "¡Despegue
     
 
 ## Evidencias
-![Múltiples lenguajes](capturas/Pasted%20image%2020251025225157.png)
-![Múltiples lenguajes](capturas/Pasted%20image%2020251025225229.png)
-![Múltiples lenguajes](capturas/Pasted%20image%2020251025223819.png)
-![Múltiples lenguajes](capturas/Pasted%20image%2020251025224034.png)
+![Múltiples lenguajes](capturas/punto5_java_ejecucionvscode.png.png)
+![Múltiples lenguajes](capturas/punto5_python_ejecucionvscode.png.png)
+![Múltiples lenguajes](capturas/punto5_java_ejecucion.png.png)
+![Múltiples lenguajes](capturas/punto5_python_ejecucion.png.png)
 
 ## Observaciones
 

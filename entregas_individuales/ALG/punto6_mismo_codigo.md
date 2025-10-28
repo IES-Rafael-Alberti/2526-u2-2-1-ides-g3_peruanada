@@ -35,9 +35,8 @@ Ejecución del mismo programa Python (cuenta regresiva de 10 a 0 con mensaje "¡
     
 
 ## Evidencias
-![Ejecución](capturas/Pasted%20image%2020251025225229.png)
-![Ejecución](capturas/Pasted%20image%2020251025224034.png)
-![Ejecución](capturas/Pasted%20image%2020251025232939.png)
+![Ejecución](capturas/punto5_python_ejecucionvscode.png.png)
+![Ejecución](capturas/punto5_python_ejecucion.png.png)
 
 ## Observaciones
 

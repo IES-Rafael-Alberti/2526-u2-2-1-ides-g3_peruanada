@@ -31,8 +31,8 @@ Configuración de sistemas de actualización automática en ambos IDEs para mant
 
 ## Evidencias
 
-![Actualizaciones](capturas/Pasted%20image%2020251025214500.png)
-![Actualizaciones](capturas/Pasted%20image%2020251025213711.png)
+![Actualizaciones](capturas/punto4_vscode_actualizacion.png.png)
+![Actualizaciones](capturas/punto4_fleet_actualizacion.png.png)
 
 ## Observaciones
 
