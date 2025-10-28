@@ -1,38 +1,25 @@
-# Punto 5: Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE
+# Punto 2.5: Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE
 
-## IDE utilizado
-- **IDE:** [Nombre y versión - usar solo UNO de los dos IDEs]
+## IDEs utilizados  
+> ⚠️ PyCharm y Thonny son IDEs enfocados en **Python**, por lo que no permiten ejecutar varios lenguajes directamente.  
+> Se usaron **Visual Studio Code** e **IntelliJ IDEA** como referencia.
+- *IDE 1:* Visual Studio Code 
+- *IDE 2:* IntelliJ IDEA
 
 ## Descripción de la tarea
-Programa "cuenta atrás" que cuenta de 10 a 0 y luego imprime "¡Despegue!"
-
-### Lenguajes utilizados
-- **Lenguaje 1:** [ej: Java]
-- **Lenguaje 2:** [ej: Kotlin]
-
-## Código implementado
-
-### Lenguaje 1: [Nombre]
-```[lenguaje]
-[Código aquí]
-```
-
-### Lenguaje 2: [Nombre]
-```[lenguaje]
-[Código aquí]
-```
+Escribir un programa que cuente de 10 a 0 y luego imprima "¡Despegue!" en dos lenguajes diferentes (Python y Java) usando un mismo IDE y generar los ejecutables.
 
 ## Respuestas a preguntas evaluativas
-
 ### Pregunta 1: ¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?
-[Tu respuesta aquí]
+- **Visual Studio Code:** instalar extensiones de cada lenguaje, abrir archivos y ejecutar. Detecta automáticamente el lenguaje y usa el intérprete o compilador adecuado.  
+- **IntelliJ IDEA:** crear módulos por lenguaje dentro del proyecto, compilar o interpretar según configuración del módulo.
 
 ### Pregunta 2: ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
-[Tu respuesta aquí]
+- **Python:** se ejecuta directamente (interpretado).  
+- **Java:** se compila primero a bytecode `.class` (compilado), requiere más pasos pero ofrece mejor rendimiento.
 
 ## Evidencias
-![Ejecución en lenguaje 1](capturas/punto5_lenguaje1_ejecucion.png)
-![Ejecución en lenguaje 2](capturas/punto5_lenguaje2_ejecucion.png)
+![Captura 1](../capturas/11.png)
 
 ## Observaciones
-[Comentarios adicionales]
+Los lenguajes interpretados permiten iterar más rápido, mientras que los compilados ofrecen mejor rendimiento pero requieren pasos adicionales.
