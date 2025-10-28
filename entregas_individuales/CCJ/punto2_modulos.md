@@ -17,9 +17,10 @@ Agregar extensiones o módulos que amplíen la funcionalidad de cada IDE, por ej
 - **Thonny:** permite ampliar las capacidades del IDE, por ejemplo, para crear juegos con `pygame`.
 
 ## Evidencias
-![Captura 1](../capturas/3.png)  
+![Captura 1](./capturas/3.png)  
 
-![Captura 2](../capturas/4.png)
+![Captura 2](./capturas/4.png)
 
 ## Observaciones
 Los plugins/extensiones son esenciales para personalizar y optimizar el entorno de desarrollo según el proyecto.
+
