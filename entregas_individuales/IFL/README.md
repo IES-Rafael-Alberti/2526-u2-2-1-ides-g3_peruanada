@@ -1,4 +1,31 @@
 # Evaluación de los IDEs
+  - [Instalación de entornos de desarrollo propietarios y libres (CE 2.a)](#instalación-de-entornos-de-desarrollo-propietarios-y-libres)
+    - [Diferencias proceso instalación IDE propietario vs libre](#diferencias-proceso-instalación-ide-propietario-vs-libre)
+      - [**Visual Studio Code**](#visual-studio-code)
+      - [**IntelliJ IDEA**](#intellij-idea)
+    - [¿Qué ventajas identificaste en cada uno de los entornos durante la instalación?](#qué-ventajas-identificaste-en-cada-uno-de-los-entornos-durante-la-instalación)
+      - [**Visual Studio Code**](#visual-studio-code-1)
+      - [**IntelliJ IDEA**](#intellij-idea-1)
+  - [Gestión de módulos y extensiones en el entorno de desarrollo (CE 2.b)](#gestión-de-módulos-y-extensiones-en-el-entorno-de-desarrollo)
+    - [Visual Studio Code](#visual-studio-code-2)
+    - [IntelliJ IDEA](#intellij-idea-2)
+  - [Personalización y automatización del entorno (CE 2.c)](#personalización-y-automatización-del-entorno)
+    - [Visual Studio Code](#visual-studio-code-3)
+    - [IntelliJ IDEA](#intellij-idea-3)
+  - [Configuración del sistema de actualización del entorno de desarrollo (CE 2.d)](#configuración-del-sistema-de-actualización-del-entorno-de-desarrollo)
+    - [Visual Studio Code](#visual-studio-code-4)
+    - [IntelliJ IDEA](#intellij-idea-4)
+      - [¿Cómo configuré las actualizaciones automáticas?](#cómo-configuré-las-actualizaciones-automáticas)
+      - [¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo? (CE 2.e)](#por-qué-es-importante-mantener-el-ide-actualizado-en-proyectos-de-desarrollo)
+  - [Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE](#generación-de-ejecutables-a-partir-de-código-fuente-en-distintos-lenguajes-en-un-mismo-ide)
+    - [1. Crea Proyecto Java/Kotlin correctamente](#1-crea-proyecto-javakotlin-correctamente)
+    - [2. Crea los archivos fuente correctos](#2-crea-los-archivos-fuente-correctos)
+    - [3. Ejecuta ambos programas](#3-ejecuta-ambos-programas)
+  - [Generación de ejecutables con diferentes IDEs a partir del mismo código fuente (CE 2.f)](#generación-de-ejecutables-con-diferentes-ides-a-partir-del-mismo-código-fuente)
+    - [Código fuente utilizado (Python)](#código-fuente-utilizado-python)
+    - [Ejecución en Visual Studio Code](#ejecución-en-visual-studio-code)
+    - [Ejecución en IntelliJ IDEA](#ejecución-en-intellij-idea)
+
 
 ## Instalación de entornos de desarrollo propietarios y libres
 
