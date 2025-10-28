@@ -17,13 +17,14 @@ Personalizar el entorno de cada IDE (tema, atajos de teclado) y automatizar tare
 - **Thonny:** atajos básicos como `F5` para ejecutar, simplificando tareas simples.
 
 ## Evidencias
-![Captura 1](../capturas/5.png)  
+![Captura 1](./capturas/5.png)  
 
-![Captura 2](../capturas/6.png)  
+![Captura 2](./capturas/6.png)  
 
-![Captura 3](../capturas/7.png)  
+![Captura 3](./capturas/7.png)  
 
-![Captura 4](../capturas/8.png)
+![Captura 4](./capturas/8.png)
 
 ## Observaciones
 La personalización facilita la productividad y mejora la experiencia del usuario según el nivel de complejidad del proyecto.
+
