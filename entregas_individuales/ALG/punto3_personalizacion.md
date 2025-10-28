@@ -1,37 +1,36 @@
-# Punto 3: Personalización y automatización del entorno
-
 ## IDEs utilizados
-- **IDE 1:** [Nombre y versión]
-- **IDE 2:** [Nombre y versión]
+
+- **IDE 1:** Visual Studio Code (versión más reciente, 1.105)
+    
+- **IDE 2:** JetBrains Fleet (versión beta, 1,45)
+    
 
 ## Descripción de la tarea
-[Explica qué personalizaciones realizaste: tema, atajos de teclado, automatización de tareas]
 
-### Personalizaciones realizadas
-- Tema: [Nombre del tema]
-- Atajos de teclado: [Lista de atajos configurados]
-- Automatización: [Tareas automatizadas, ej: ejecutar tests, compilar código]
+Personalización de temas, atajos de teclado y configuración de automatizaciones en ambos IDEs para mejorar la experiencia de desarrollo.
 
 ## Respuestas a preguntas evaluativas
 
 ### Pregunta 1: ¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
-[Tu respuesta aquí]
+
+- **VSCode:** Temas visuales, fuente Fira Code con ligaduras, auto-identación al pegar, y atajos de teclado personalizados para duplicar líneas y crear terminal.
+    
+- **Fleet:** Temas preinstalados, fuente Fira Code con ligaduras, y opción para configurar esquemas de atajos de otros IDEs.
+    
 
 ### Pregunta 2: ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
-[Tu respuesta aquí]
+
+- **VSCode:** Usada Extensión "Run On Save" para ejecutar automáticamente scripts Python al guardar, y creados snippets personalizados para crear estructuras de código rápidamente.
+    
+- **Fleet:** Actualmente no soporta automatizaciones ni snippets personalizados.
+    
 
 ## Evidencias
-**ANTES:**
-![Entorno antes IDE 1](capturas/punto3_ide1_antes.png)
-![Entorno antes IDE 2](capturas/punto3_ide2_antes.png)
 
-**DESPUÉS:**
-![Entorno después IDE 1](capturas/punto3_ide1_despues.png)
-![Entorno después IDE 2](capturas/punto3_ide2_despues.png)
-
-**AUTOMATIZACIÓN:**
-![Automatización IDE 1](capturas/punto3_ide1_automatizacion.png)
-![Automatización IDE 2](capturas/punto3_ide2_automatizacion.png)
-
+![Personalización](capturas/Pasted%20image%2020251025121219.png)
+![Personalización](capturas/Pasted%20image%2020251025130455.png)
+![Personalización](capturas/Pasted%20image%2020251025183329.png)
+![Personalización](capturas/Pasted%20image%2020251025190717.png)
 ## Observaciones
-[Comentarios adicionales]
+
+Fleet está muy limitado en personalización y automatización comparado con VSCode, que ofrece un control mucho más granular sobre el entorno.
