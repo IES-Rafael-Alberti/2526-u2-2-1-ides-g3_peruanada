@@ -1,37 +1,29 @@
-# Punto 3: Personalización y automatización del entorno
+# Punto 2.3: Personalización y automatización del entorno
 
 ## IDEs utilizados
-- **IDE 1:** [Nombre y versión]
-- **IDE 2:** [Nombre y versión]
+- *IDE 1:* PyCharm Professional
+- *IDE 2:* Thonny
 
 ## Descripción de la tarea
-[Explica qué personalizaciones realizaste: tema, atajos de teclado, automatización de tareas]
-
-### Personalizaciones realizadas
-- Tema: [Nombre del tema]
-- Atajos de teclado: [Lista de atajos configurados]
-- Automatización: [Tareas automatizadas, ej: ejecutar tests, compilar código]
+Personalizar el entorno de cada IDE (tema, atajos de teclado) y automatizar tareas como la ejecución de pruebas o compilación de código.
 
 ## Respuestas a preguntas evaluativas
-
 ### Pregunta 1: ¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
-[Tu respuesta aquí]
+- **PyCharm:** tema oscuro y atajos personalizados para ejecutar código más rápido.  
+- **Thonny:** modo oscuro, aumento del tamaño de fuente y números de línea visibles.
 
 ### Pregunta 2: ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
-[Tu respuesta aquí]
+- **PyCharm:** atajos configurables para ejecutar tareas repetitivas de manera rápida.  
+- **Thonny:** atajos básicos como `F5` para ejecutar, simplificando tareas simples.
 
 ## Evidencias
-**ANTES:**
-![Entorno antes IDE 1](capturas/punto3_ide1_antes.png)
-![Entorno antes IDE 2](capturas/punto3_ide2_antes.png)
+![Captura 1](../capturas/5.png)  
 
-**DESPUÉS:**
-![Entorno después IDE 1](capturas/punto3_ide1_despues.png)
-![Entorno después IDE 2](capturas/punto3_ide2_despues.png)
+![Captura 2](../capturas/6.png)  
 
-**AUTOMATIZACIÓN:**
-![Automatización IDE 1](capturas/punto3_ide1_automatizacion.png)
-![Automatización IDE 2](capturas/punto3_ide2_automatizacion.png)
+![Captura 3](../capturas/7.png)  
+
+![Captura 4](../capturas/8.png)
 
 ## Observaciones
-[Comentarios adicionales]
+La personalización facilita la productividad y mejora la experiencia del usuario según el nivel de complejidad del proyecto.
