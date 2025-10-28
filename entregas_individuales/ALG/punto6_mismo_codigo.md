@@ -1,30 +1,44 @@
-# Punto 6: Generación de ejecutables con diferentes IDEs a partir del mismo código fuente
 
 ## IDEs utilizados
-- **IDE 1:** [Nombre y versión]
-- **IDE 2:** [Nombre y versión]
+
+- **IDE 1:** Visual Studio Code (versión más reciente)
+    
+- **IDE 2:** JetBrains Fleet (versión beta)
+    
 
 ## Descripción de la tarea
-Programa "cuenta atrás" en Python que cuenta de 10 a 0 y luego imprime "¡Despegue!"
 
-## Código implementado
-
-```python
-# Código Python del programa cuenta atrás
-[Tu código aquí]
-```
+Ejecución del mismo programa Python (cuenta regresiva de 10 a 0 con mensaje "¡Despegue!") en ambos IDEs para comparar la experiencia.
 
 ## Respuestas a preguntas evaluativas
 
 ### Pregunta 1: ¿Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?
-[Tu respuesta aquí]
 
-### Pregunta 2: ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguaje que hayas elegido? ¿Por qué?
-[Tu respuesta aquí]
+- **VSCode:** Ejecución directa con el botón "Run"
+    
+- **Fleet:** Al presionar "Run" aparece una barra para seleccionar qué programa ejecutar
+    
+- Ambos producen el mismo resultado funcional
+    
+
+### Pregunta 2: ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python? ¿Por qué?
+
+**VSCode** es actualmente más completo y eficiente porque:
+
+- Tiene un ecosistema de extensiones más maduro
+    
+- Proceso de ejecución más directo
+    
+- Mayor personalización y automatización
+    
+- Fleet, aunque más fluido visualmente, está aún en desarrollo y le faltan características importantes
+    
 
 ## Evidencias
-![Ejecución en IDE 1](capturas/punto6_ide1_ejecucion.png)
-![Ejecución en IDE 2](capturas/punto6_ide2_ejecucion.png)
+![Ejecución](capturas/Pasted%20image%2020251025225229.png)
+![Ejecución](capturas/Pasted%20image%2020251025224034.png)
+![Ejecución](capturas/Pasted%20image%2020251025232939.png)
 
 ## Observaciones
-[Comentarios adicionales]
+
+Aunque ambos IDEs ejecutan correctamente el código Python, VSCode ofrece una experiencia más pulida y completa, mientras que Fleet muestra indicios de ser un producto aún en desarrollo beta. 
