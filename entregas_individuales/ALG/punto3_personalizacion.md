@@ -31,12 +31,12 @@ Personalización de temas, atajos de teclado y configuración de automatizacione
 ![Personalización](capturas/punto3_vscode_settings.png.png)
 ![Personalización](capturas/punto3_vscode_despues.png.png)
 ![Personalización](capturas/punto3_vscode_antes.png.png)
-![[capturas/punto3_vscode_automatizacion.png.png]]
-![[capturas/punto3_fleet_antes.png.png]]
+![Personalización](capturas/punto3_vscode_automatizacion.png.png)
+![Personalización](capturas/punto3_fleet_antes.png.png)
 
-![[capturas/punto3_fleet_despues.png.png]]
-![[capturas/punto3_fleet_hotkeys.png.png]]
-![[capturas/punto3_fleet_temas.png.png]]
+![Personalización](capturas/punto3_fleet_despues.png.png)
+![Personalización](capturas/punto3_fleet_hotkeys.png.png)
+![Personalización](capturas/punto3_fleet_temas.png.png)
 ## Observaciones
 
 Fleet está muy limitado en personalización y automatización comparado con VSCode, que ofrece un control mucho más granular sobre el entorno.
