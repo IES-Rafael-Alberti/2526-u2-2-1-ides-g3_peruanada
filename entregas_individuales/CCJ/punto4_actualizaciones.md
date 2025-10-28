@@ -1,23 +1,24 @@
-# Punto 4: Configuración del sistema de actualización del entorno de desarrollo
+# Punto 2.4: Configuración del sistema de actualización del entorno de desarrollo
 
 ## IDEs utilizados
-- **IDE 1:** [Nombre y versión]
-- **IDE 2:** [Nombre y versión]
+- *IDE 1:* PyCharm Professional
+- *IDE 2:* Thonny
 
 ## Descripción de la tarea
-[Explica cómo configuraste el sistema de actualizaciones en cada IDE]
+Configurar las actualizaciones automáticas o manuales para asegurar que los IDEs estén al día con las últimas versiones y mejoras.
 
 ## Respuestas a preguntas evaluativas
-
 ### Pregunta 1: ¿Cómo configuraste las actualizaciones automáticas en cada IDE?
-[Tu respuesta aquí]
+- **PyCharm:** `File → Settings → Appearance & Behavior → System Settings → Updates`, con actualizaciones automáticas activadas.  
+- **Thonny:** actualización manual descargando la versión más reciente desde la web.
 
 ### Pregunta 2: ¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?
-[Tu respuesta aquí]
+- Mantener los IDEs actualizados asegura compatibilidad con nuevas versiones de Python, corrige errores y mejora la seguridad.
 
 ## Evidencias
-![Configuración actualizaciones IDE 1](capturas/punto4_ide1_actualizaciones.png)
-![Configuración actualizaciones IDE 2](capturas/punto4_ide2_actualizaciones.png)
+![Captura 1](../capturas/9.png)  
+
+![Captura 2](../capturas/10.png)
 
 ## Observaciones
-[Comentarios adicionales]
+La actualización regular previene problemas de compatibilidad y mejora la experiencia de desarrollo.
