@@ -30,12 +30,12 @@ Instalación de extensiones/plugins en ambos IDEs para ampliar su funcionalidad,
 
 ![Extensiones](capturas/punto2_vscode_extensiones_marketplace.png.png)
 ![Extensiones](capturas/punto2_vscode_extensiones_instaladas.png.png)
-![[capturas](punto2_vscode_extensiones_cambiotema.png.png)
-![[capturas](punto2_vscode_extensiones_cambioiconos.png.png)
+![Extensiones](punto2_vscode_extensiones_cambiotema.png.png)
+![Extensiones](punto2_vscode_extensiones_cambioiconos.png.png)
 ![Extensiones](capturas/punto2_fleet_extensiones_accesoplugins.png.png)
 ![Extensiones](capturas/punto2_fleet_extensiones_marketplace.png.png)
-![[capturas](punto2_fleet_extensiones_instaladas.png.png)
-![[capturas](punto2_fleet_extensiones_instaladas2.png.png)
+![Extensiones](punto2_fleet_extensiones_instaladas.png.png)
+![Extensiones](punto2_fleet_extensiones_instaladas2.png.png)
 ## Observaciones
 
 VSCode tiene un ecosistema de extensiones mucho más maduro y diverso, mientras que Fleet aún tiene pocos plugins de terceros disponibles.
