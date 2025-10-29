@@ -10,9 +10,9 @@
 
 | Nombre y Apellidos | Correo Electrónico | Iniciales |
 |-------------------|-------------------|-----------|
-| Antonio L G | alopgau418@g.educaand.es | ALG |
+| Antonio Lopez Gautier | alopgau418@g.educaand.es | ALG |
 | Cristian Carrasco Jimenez | ccarjim2909@g.educaand.es | CCJ |
-| Fabio M Tello L | ftellop678@g.educaand.es | FMTL |
+| Fabio Mauricio Tello Lopez | ftellop678@g.educaand.es | FMTL |
 | Irene Foncubierta Lobatón | ifonlob1108@g.educaand.es | IFL |
 
 ---
