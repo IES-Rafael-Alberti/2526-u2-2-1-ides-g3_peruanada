@@ -5,7 +5,11 @@
 ## Resumen de Puntos Destacables
 
 ### Puntos individuales más relevantes
-[Aquí el grupo destaca solo los puntos más interesantes de los trabajos individuales]
+- Visual Studio Code es fácil de usar, rápido y se adapta muy bien a distintos lenguajes gracias a sus extensiones.
+- PyCharm el mejor para Python.
+- IntelliJ IDEA es muy completo y potente, es el mejor para proyectos grandes o cuando se trabaja con varios lenguajes.
+- Thonny es simple y puede servir para empezar, pero se queda corto comparado con las demás opciones.
+- Fleet al ser nuevo todavía le falta incorporar muchas funciones para estar al nivel de los otros.
 
 #### Instalación (Punto 1)
 - **Mejor experiencia de instalación:** Visual Studio Code
@@ -99,5 +103,8 @@
 ---
 
 ## Conclusiones finales del grupo
+Para nosotros, la mejor opción al programar en Python es PyCharm, porque está hecho específicamente para ese lenguaje y tiene muchas funciones que facilitan el trabajo. 
 
-[Reflexión conjunta sobre los IDEs analizados, lecciones aprendidas y recomendaciones]
+Creemos que Thonny no vale mucho la pena teniendo otras opciones más completas como VS Code o PyCharm. 
+
+Y cuando se trata de proyectos con varios lenguajes, sin duda Visual Studio Code es el más cómodo y versátil.
