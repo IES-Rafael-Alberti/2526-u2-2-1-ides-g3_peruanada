@@ -10,31 +10,31 @@
 [Aquí el grupo destaca solo los puntos más interesantes de los trabajos individuales]
 
 #### Instalación (Punto 1)
-- **Mejor experiencia de instalación:** [IDE]
-- **Más compleja:** [IDE]
-- **Comentarios:** [...]
+- **Mejor experiencia de instalación:** Visual Studio Code
+- **Más compleja:** IntelliJ IDEA y PyCharm
+- **Comentarios:** Visual Se instala de manera rápida y sencilla con un instalador muy intuitivo. IntelliJ y Pycharm al ser mas complejas requieren más pasos.
 
 #### Módulos y extensiones (Punto 2)
 - **Mejores plugins/extensiones:** [Lista]
-- **IDE con mejor gestión de extensiones:** [IDE]
-- **Comentarios:** [...]
+- **IDE con mejor gestión de extensiones:** Visual Studio Code
+- **Comentarios:** Tiene una amplia biblioteca de extensiones donde la instalación de extensiones es rápida, y su compatibilidad con múltiples lenguajes y frameworks lo hace ideal.
 
 #### Personalización y automatización (Punto 3)
-- **Más personalizable:** [IDE]
-- **Mejor automatización:** [IDE]
-- **Comentarios:** [...]
+- **Más personalizable:** Visual Studio Code
+- **Mejor automatización:** intelliJ IDEA y Pycharm
+- **Comentarios:** Visual es el mas personalizable por su gran cantidad de extensiones y configuraciones de usuario. IntelliJ IDEA y PyCharm destacan en automatización gracias a sus funciones integradas de refactorización, generación de código, depuración avanzada
 
 #### Actualizaciones (Punto 4)
-- **Sistema más transparente:** [IDE]
-- **Comentarios:** [...]
+- **Sistema más transparente:** Visual Studio Code
+- **Comentarios:** Ofrece un sistema de actualizaciones muy claro y configurable: se pueden revisar, aplicar o incluso desactivar las actualizaciones automáticas mediante el ajuste. Otro destacado es intelliJ IDEA
 
 #### Múltiples lenguajes (Punto 5)
-- **Mejor soporte multi-lenguaje:** [IDE]
-- **Comentarios:** [...]
+- **Mejor soporte multi-lenguaje:** Visual Studio Code
+- **Comentarios:** Ofrece un excelente soporte para múltiples lenguajes gracias a su amplia biblioteca de extensiones.
 
 #### Mismo código, diferentes IDEs (Punto 6)
-- **Mejor experiencia Python:** [IDE]
-- **Comentarios:** [...]
+- **Mejor experiencia Python:** Pycharm
+- **Comentarios:** Ofrece la mejor experiencia para desarrollo en Python, ya que está especialmente diseñado y optimizado para este lenguaje.
 
 ---
 
@@ -71,32 +71,32 @@
 ## Identificación de "mejores" por categoría
 
 ### 🏆 Mejor IDE general
-**[Nombre del IDE]**
-- Razones: [...]
+**Visual Studio Code**
+- Razones: Ligero, versátil y altamente personalizable, permite trabajar con múltiples lenguajes y proyectos de forma sencilla y eficiente.
 
 ### 🚀 Mejor rendimiento
-**[Nombre del IDE]**
-- Razones: [...]
+**Thonny**
+- Razones: Thonny es el más ligero de los cinco, con tiempos de arranque rápidos y bajo consumo de recursos.
 
 ### 🎨 Mejor personalización
-**[Nombre del IDE]**
-- Razones: [...]
+**Visual Studio Code**
+- Razones: Ofrece una enorme cantidad de extensiones, temas y configuraciones.
 
 ### 🔌 Mejor ecosistema de plugins
-**[Nombre del IDE]**
-- Razones: [...]
+**Visual Studio Code**
+- Razones: Cuenta con uno de los marketplaces más amplios y activos, con miles de extensiones gratuitas que amplían sus funciones.
 
 ### 💰 Mejor relación calidad-precio
-**[Nombre del IDE]**
-- Razones: [...]
+**Visual Studio Code**
+- Razones: Completamente gratuito, de código abierto y ofrece características comparables a IDEs de pago.
 
 ### 👶 Mejor para principiantes
-**[Nombre del IDE]**
-- Razones: [...]
+**Thonny**
+- Razones: Tiene una interfaz simple y se enfoca en la enseñanza de Python.
 
 ### 👨‍💼 Mejor para profesionales
-**[Nombre del IDE]**
-- Razones: [...]
+**IntelliJ IDEA**
+- Razones: Potente y completo, con herramientas avanzadas para grandes proyectos y entornos empresariales.
 
 ---
 
