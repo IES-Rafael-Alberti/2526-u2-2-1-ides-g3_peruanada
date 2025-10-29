@@ -17,7 +17,7 @@
 - **Comentarios:** Visual Se instala de manera rápida y sencilla con un instalador muy intuitivo. IntelliJ y Pycharm al ser mas complejas requieren más pasos.
 
 #### Módulos y extensiones (Punto 2)
-- **Mejores plugins/extensiones:** [Lista]
+- **Mejores plugins/extensiones:** PlantUML (para representar diagramas mediante código), Live Preview (visualización de cambios HTML/CSS en tiempo real) y Prettier (linter de código), todas de VSCode
 - **IDE con mejor gestión de extensiones:** Visual Studio Code
 - **Comentarios:** Tiene una amplia biblioteca de extensiones donde la instalación de extensiones es rápida, y su compatibilidad con múltiples lenguajes y frameworks lo hace ideal.
 
