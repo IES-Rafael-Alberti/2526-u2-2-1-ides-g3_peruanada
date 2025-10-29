@@ -1,8 +1,6 @@
 # Respuestas Grupales - Parte Común
 
-## Grupo: [Nombre del grupo o iniciales de los 5 integrantes]
-
----
+## Grupo: Peruanada
 
 ## Resumen de Puntos Destacables
 
