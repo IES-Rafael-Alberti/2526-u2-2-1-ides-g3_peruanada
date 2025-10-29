@@ -3,39 +3,17 @@
 ## Grupo: [Nombre del grupo o iniciales de los 5 integrantes]
 
 ### IDEs Analizados
-1. IDE del Alumno Antonio - 
-2. IDE del Alumno Antonio - Fleet
+1. IDE del Alumno Antonio Lopez Gautier - Visual Studio Code 
+2. IDE del Alumno Antonio Lopez Gautier - Fleet
 3. IDE del Alumno Cristian Carrasco Jimenez - Pycharm
 4. IDE del Alumno Cristian Carrasco Jimenez - Thonny
-5. IDE del Alumno Fabio - Pycharm
-6. IDE del Alumno Fabio - Visual Studio Code
-7. IDE del Alumno Irene - ItelliJ IDEA
-8. IDE del Alumno Irene - 
+5. IDE del Alumno Fabio Tello Lopez - Pycharm
+6. IDE del Alumno Fabio Tello Lopez - Visual Studio Code
+7. IDE del Alumno Irene Foncubierta Lobatón - IntelliJ IDEA
+8. IDE del Alumno Irene Foncubierta Lobatón - Visual Studio Code
 
 
 ---  
-
-  ## Tabla Comparativa
-
-| Característica | VSCode | PyCharm | Thonny | IntelliJ IDEA | Fleet |
-|----------------|--------|---------|--------|---------------|-------|
-| **Lenguajes soportados** | | | | | |
-| **Velocidad de carga** | | | | | |
-| **Soporte para extensiones/plugins** | | | | | |
-| **Depurador** | | | | | |
-| **Refactorización** | | | | | |
-| **Autocompletado de código** | | | | | |
-| **Control de versiones (Git)** | | | | | |
-| **Automatización de tareas** | | | | | |
-| **Soporte para múltiples lenguajes** | | | | | |
-| **Personalización del entorno** | | | | | |
-| **Integración con bases de datos** | | | | | |
-| **Pruebas automatizadas** | | | | | |
-| **Soporte para frameworks** | | | | | |
-| **Configuración de entornos virtuales** | | | | | |
-| **Herramientas de análisis de código** | | | | | |
-| **Soporte para compilación/Maven/Gradle** | | | | | |
-| **Precio/licencia** | | | | | |  
 
 
 ## Tabla Comparativa de IDEs
@@ -62,56 +40,29 @@
 
 
 
-
-## Tabla Comparativa
-
-| Característica | VSCode | PyCharm | Thonny | IntelliJ IDEA | Fleet |
-|----------------|--------|---------|--------|:---------------:|-------|
-| **Lenguajes soportados** | 🔌 | ✅ | ✅ | ✅ | 🔌 |
-| **Velocidad de carga** | ✅ | ⚠️ | ✅ | ⚠️ | ✅ |
-| **Soporte para extensiones/plugins** | 🔌 | ✅ | ⚠️ | ✅ | ⚠️ |
-| **Depurador** | ⚠️ | ✅ | ⚠️ | ✅ | ⚠️ |
-| **Refactorización** | ⚠️ | ✅ | ⚠️ | ✅ | ⚠️ |
-| **Autocompletado de código** | ⚠️ | ✅ | ⚠️ | ✅ | ⚠️ |
-| **Control de versiones (Git)** | 🔌 | ✅ | ⚠️ | ✅ | ⚠️ |
-| **Automatización de tareas** | 🔌 | ✅ | ❌ | ✅ | ⚠️ |
-| **Soporte para múltiples lenguajes** | 🔌 | ⚠️ | ❌ | ✅ | ⚠️ |
-| **Personalización del entorno** | ✅ | ✅ | ⚠️ | ✅ | ⚠️ |
-| **Integración con bases de datos** | 🔌 | ✅ | ❌ | ✅ | ⚠️ |
-| **Pruebas automatizadas** | 🔌 | ✅ | ❌ | ✅ | ⚠️ |
-| **Soporte para frameworks** | 🔌 | ✅ | ❌ | ✅ | ⚠️ |
-| **Configuración de entornos virtuales** | 🔌 | ✅ | ⚠️ | ✅ | ⚠️ |
-| **Herramientas de análisis de código** | 🔌 | ✅ | ❌ | ✅ | ⚠️ |
-| **Soporte para compilación/Maven/Gradle** | 🔌 | ✅ | ❌ | ✅ | ⚠️ |
-| **Precio/licencia** | ✅ | ⚠️ | ✅ | ⚠️ | ⚠️ |
-
 ---
 
 ## Observaciones por IDE
 
-### [Nombre IDE 1]
-[Comentarios relevantes]
+### Visual Studio Code
+Editor ligero y muy versátil, compatible con muchos lenguajes gracias a sus extensiones y altamente personalizable.
 
-### [Nombre IDE 2]
-[Comentarios relevantes]
+### Pycharm
+IDE especializado en Python, con excelentes herramientas de depuración, pruebas y manejo de entornos virtuales.
 
-### [Nombre IDE 3]
-[Comentarios relevantes]
+### IntelliJ Idea
+Potente IDE para Java y otros lenguajes, ideal para proyectos grandes por su inteligencia de código y refactorización.
 
-### [Nombre IDE 4]
-[Comentarios relevantes]
+### Thonny
+Sencillo y fácil de usar, perfecto para quienes recién comienzan a programar en Python.
 
-### [Nombre IDE 5]
-[Comentarios relevantes]
+### Fleet
+Nuevo editor de JetBrains, rápido, colaborativo y diseñado para ofrecer una experiencia moderna y flexible.
 
 
 ---
 
 ## Conclusiones de la comparación
-[Análisis general de las diferencias y similitudes encontradas entre todos los IDEs]
+Cada IDE se adapta a distintos tipos de usuarios y necesidades: VS Code destaca por su versatilidad, PyCharm e IntelliJ por su potencia profesional, Thonny por su sencillez para principiantes y Fleet por su enfoque moderno y colaborativo. La mejor elección depende del lenguaje y la experiencia del programador.
 
-## Leyenda
-- ✅ Soportado completamente
-- ⚠️ Soportado parcialmente / Limitado
-- ❌ No soportado
-- 🔌 Disponible mediante plugin/extensión
+
