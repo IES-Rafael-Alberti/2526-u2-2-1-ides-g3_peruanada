@@ -46,21 +46,28 @@
 
 Al analizar todos los IDEs nos hemos percatado que todos comparten las funcionalidades esenciales, como son las ya mencionadas permitiendo que cualquier usuario pueda escribir, corregir y gestionar proyectos de desarrollo de manera eficiente.​
 Sin embargo, existe una diferencia importante en cuanto al nivel de profundidad y detalle de estas herramientas según el entorno:
-Thonny está diseñado especialmente para principiantes puesto que incluye una interfaz sencilla, depurador visual básico y funciones de autocompletado y detección de errores accesibles. Si bien permite la edición y ejecución de código, su enfoque didáctico (para ayudar a principiantes) limita las funciones avanzadas, haciéndolo ideal para quienes dan sus primeros pasos en programación.​
+- Thonny: orientado a principiantes, con interfaz simple, depurador visual básico y autocompletado limitado. Ideal para aprender, pero con pocas funciones avanzadas.
 
-PyCharm, Visual Studio Code e IntelliJ IDEA en su contraparte incorporan utilidades profesionales dado que ofrecen depuradores potentes con breakpoints y análisis en vivo, autocompletado inteligente (IntelliSense), herramientas de refactorización, y una integración visual avanzada con sistemas de control de versiones (como Git), permitiendo la gestión de ramas, fusiones de código y revisión de cambios desde el propio entorno. Además, soportan pruebas automatizadas, entornos virtuales y personalización profunda gracias a plugins y extensiones.​
-Fleet, pese a ser más reciente y estar en desarrollo, ya incorpora muchas características modernas presentes en IDEs más avanzados. Asimismo, su punto fuerte es la colaboración en tiempo real y un diseño más ligero, aunque algunas funciones avanzadas aún se encuentran en evolución respecto a las soluciones más consolidadas.​
+- PyCharm, VS Code e IntelliJ IDEA: enfocados en entornos profesionales, incluyen depuración avanzada, refactorización, autocompletado inteligente, integración con Git, pruebas automáticas y soporte de plugins.
+
+- Fleet: más moderno y ligero, destaca por la colaboración en tiempo real, aunque aún está en desarrollo y le faltan algunas funciones avanzadas.
 
 ---
 
 ### 2. ¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
 
 Al probar los diferentes IDEs, hemos notado que cada uno tiene sus particularidades:
-Con Thonny todo es muy sencillo, ya que está pensado para gente que empieza. Te deja instalar módulos básicos de Python fácil y tiene lo justo para cambiar el tema, pero no mucho más. Es funcional si solo quieres ponerte a programar,  pero para proyectos avanzados se queda corto.
-En PyCharm la cosa cambia bastante ya que puedes instalar paquetes y entornos virtuales desde la propia interfaz y hay mil opciones para personalizar casi todo (temas, atajos, plugins, etc.). VS Code es todavía más personalizable porque tiene un marketplace gigante de extensiones con todo tipo de herramientas, temas y configuraciones. Básicamente puedes montar el editor como quieras, pero tienes que buscar e instalar cosas tú mismo.
+- Thonny: muy simple, permite instalar módulos básicos y cambiar el tema, pero sin opciones avanzadas. Ideal para principiantes.
 
-Por otra parte, IntelliJ IDEA destaca cuando trabajas con Java o Kotlin ya que es capaz de manejar módulos que van de la mano con sistemas como Maven o Gradle y te crea ejecutables o proyectos completos casi sin tocar nada. En comparación, Fleet todavía le falta esa chispa en algunas cosas, aunque ya se nota que quiere hacer todo fácil y rápido, sobre todo para colaborar y escribir código sin distracciones, pero le faltan funciones de personalización y generación de ejecutables más avanzadas.
-En resumen, si buscas algo simple y rápido para aprender, Thonny está perfecto. Si quieres control total y trabajas en proyectos más grandes, PyCharm e IntelliJ son la mejor opción. En cambio, VS Code es el más versátil y personalizable si te gusta tunear tu editor, y Fleet está aún en beta, por lo que está bien si sigues las novedades. Cada IDE tiene su propio estilo y depende mucho de lo que necesites para tus proyectos.
+- PyCharm: permite gestionar paquetes y entornos virtuales desde la interfaz y ofrece alta personalización (temas, atajos, plugins).
+
+- VS Code: el más personalizable y versátil, con un amplio marketplace de extensiones, aunque requiere más configuración manual.
+
+- IntelliJ IDEA: destaca con Maven y Gradle para proyectos Java/Kotlin, generando ejecutables completos fácilmente.
+
+- Fleet: moderno y enfocado en rapidez y colaboración, pero aún limitado en personalización y generación de ejecutables.
+
+En resumen: Thonny para aprender, PyCharm/IntelliJ para proyectos grandes, VS Code si quieres flexibilidad y Fleet como opción prometedora en desarrollo.
 
 
 ---
@@ -68,16 +75,16 @@ En resumen, si buscas algo simple y rápido para aprender, Thonny está perfecto
 ### 3. ¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
 
 - **Python/Data Science:** PyCharm  
-  Para proyectos Python profesionales y complejos, PyCharm es imbatible. Si trabajas con frameworks como Django, análisis de datos, machine learning o aplicaciones enterprise, sus herramientas integradas (depurador avanzado, refactorización automática, soporte para bases de datos) te ahorran mucho tiempo.
+  Ideal para proyectos profesionales con frameworks como Django o herramientas de análisis de datos, gracias a su depurador avanzado, refactorización automática y soporte de bases de datos.
 
 - **Java/Kotlin:** IntelliJ IDEA  
-  Es ideal para trabajar con Java, Kotlin o Scala. Si tu proyecto combina estos lenguajes con Python o se enfoca en desarrollo Android, facilita todo gracias a sus herramientas ya integradas.
+  El mejor para Java, Kotlin o Scala, con integración completa de Maven, Gradle y Android, facilitando proyectos complejos o multiplataforma.
 
 - **Desarrollo web:** Visual Studio Code  
   Se lleva la corona en desarrollo web, aplicaciones multiplataforma o entornos multilenguaje. Su sistema de extensiones permite adaptarlo a cualquier proyecto. Además, es gratuito, ligero y muy flexible para equipos o desarrolladores individuales.
 
 - **Principiantes:** Thonny  
-  Perfecto para proyectos de aprendizaje y scripts simples ya que posee una interfaz limpia y herramientas didácticas ayudan a concentrarse en entender los conceptos de programación sin distracciones por funciones avanzadas.
+  Pensado para aprender programación, con interfaz simple y funciones didácticas que evitan distracciones.
 
 ---
 
