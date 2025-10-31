@@ -22,7 +22,7 @@
 |:---------------:|:----------:|:-----------:|:----------:|:----------------:|:---------:|
 | **Lenguajes soportados** | Muchos (via extensiones) | Python, pero si pagas suscripción soporta más lenguajes | Python | Kotlin, Java, Python, Scala | Muchos (via extensiones) |
 | **Velocidad de carga** | Rápido | Medio | Muy Rápido | Medio | Rápido |
-| **Soporte para extensiones/plugins** | Muy amplio (Marketplace de extensiones) | Amplio, orientadas a Python | Muy limitado, solo algunas funciones | Amplio, orientado a Java/Kotlin | Muy amplio (Marketplace de extensiones) |
+| **Soporte para extensiones/plugins** | Muy amplio (Marketplace de extensiones) | Amplio, orientadas a Python | Muy limitado, solo algunas funciones | Amplio, orientado a Java/Kotlin | Amplio (Marketplace de extensiones) |
 | **Depurador** | Básico (mejora con extensiones) | Integrado y completo para Python | Completo para Python | Usa la máquina virtual de Java | Depende de extensiones, pero muchas opciones |
 | **Refactorización** | Sí para lenguajes conocidos, ampliable mediante extensiones | Sí, herramientas avanzadas | No tiene | Sí, muy completo | Sí, pocas opciones |
 | **Autocompletado de código** | IntelliSense (básico) nativo, avanzado con extensiones | Avanzado con extensiones | Sí, muy básico | Avanzado, nativo para Kotlin y Java | Sí, pero no tan completo |
